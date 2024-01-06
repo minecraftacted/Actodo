@@ -1,2 +1,2 @@
 # Actodo
-Simple, and fast Todo app for 
+Simple, and fast todo app for win, mac, and ubuntu.
